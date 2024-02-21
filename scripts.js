@@ -20,6 +20,12 @@ document.addEventListener('DOMContentLoaded', function() {
         price: 300,
         description: "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams",
         image: "https://chrissports.com/cdn/shop/products/Babolat_I-Pulse_Essential_Badminton_Racket_800x.png?v=1672801687"
+      },
+      {
+        name: "Shuttlecock",
+        price: 300,
+        description: "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams",
+        image: "https://www.sportshouse.ph/cdn/shop/products/UltramaxDS1063_1024x1024@2x.jpg?v=1628903355"
       }
     ];
   

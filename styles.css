@@ -1,0 +1,131 @@
+/* General reset for list styles */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Style for navigation links */
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px 20px;
+  display: inline-block;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #007bff;
+}
+
+/* Styles for product container */
+.product {
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding: 20px;
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
+
+/* Styles for product image */
+.product img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Styles for product name */
+.product h2 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+/* Styles for product price */
+.product p.price {
+  margin: 5px 0;
+  font-size: 16px;
+  color: #666;
+}
+
+/* Styles for product description */
+.product p.description {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #888;
+}
+
+/* Styles for add to cart button */
+.product .button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.product .button:hover {
+  background-color: #0056b3;
+}
+/* General reset for list styles */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Style for navigation links */
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px 20px;
+  display: inline-block;
+  transition: color 0.3s;
+  font-size: xx-large;
+}
+
+nav ul li a:hover {
+  color: #007bff;
+}
+
+/* Styles for search bar */
+.search-bar {
+  margin-top: 0px;
+  margin-left: 570px;
+}
+
+.search-bar input[type="text"] {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 200px;
+}
+
+.search-bar button {
+  padding: 8px 15px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.search-bar button:hover {
+  background-color: #0056b3;
+}
